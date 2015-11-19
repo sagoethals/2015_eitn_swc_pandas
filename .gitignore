@@ -6,3 +6,17 @@ __pycache__/
 .ipynb_checkpoints
 
 *~
+
+# solved exercises
+
+01 - Introduction.ipynb
+02 - Data structures.ipynb
+03 - Indexing and selecting data.ipynb
+04 - Groupby operations.ipynb
+05 - Time series data.ipynb
+06 - Reshaping data.ipynb
+
+# big  data
+
+data/*.csv
+data/BETR8010000800100hour.1-1-1990.31-12-2012
